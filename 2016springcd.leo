@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160303092213.2"><vh>@edit w2_1</vh></v>
+<v t="leo.20160303092213.2"><vh>@edit w2_1.py</vh></v>
 <v t="leo.20160303092440.1"><vh>@edit.index.html</vh></v>
 </vnodes>
 <tnodes>
